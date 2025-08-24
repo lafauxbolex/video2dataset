@@ -1,0 +1,10 @@
+ffmpeg-python
+ultralytics
+transformers
+torch
+torchvision
+torchaudio
+pillow
+numpy
+tqdm
+scikit-learn
